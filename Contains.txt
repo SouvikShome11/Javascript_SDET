@@ -1,2 +1,4 @@
+GITHUB REPO: Javascript_SDET
+
 1. JavaScript & Node.js course for Testers, QA and SDETs - 2024 (UDEMY)
 2. RahulShetty(UDEMY)
